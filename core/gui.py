@@ -8,7 +8,7 @@ from .server import CNCServer
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("blue")
 
-class GeminiAIO(ctk.CTk):
+class BotNetApp(ctk.CTk):
     def __init__(self):
         super().__init__()
         self.title("Basic-C-Bot-net (Refactored)")

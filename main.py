@@ -1,5 +1,5 @@
-from gemini_aio.gui import GeminiAIO
+from core.gui import BotNetApp
 
 if __name__ == "__main__":
-    app = GeminiAIO()
+    app = BotNetApp()
     app.mainloop()

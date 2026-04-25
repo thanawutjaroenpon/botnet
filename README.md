@@ -30,8 +30,8 @@ Basic-C-Bot-net is an advanced All-In-One tool designed for educational purposes
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/gemini-aio.git
-   cd gemini-aio
+   git clone https://github.com/your-repo/basic-c-botnet.git
+   cd basic-c-botnet
    ```
 
 2. Install dependencies:
