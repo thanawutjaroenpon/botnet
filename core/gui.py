@@ -5,6 +5,7 @@ from .utils import check_compiler
 from .builder import build_payload
 from .server import CNCServer
 
+
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("blue")
 

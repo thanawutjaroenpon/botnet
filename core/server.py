@@ -1,6 +1,7 @@
 import socket
 import threading
 
+
 class CNCServer:
     def __init__(self, log_callback, add_agent_callback):
         self.log_callback = log_callback

@@ -3,6 +3,7 @@ import subprocess
 import requests
 import zipfile
 
+
 def xor_enc(s, keys):
     """Encrypts a string using XOR with a 4-byte key."""
     return "".join([f"\\x{ord(s[i]) ^ keys[i % 4]:02x}" for i in range(len(s))])
