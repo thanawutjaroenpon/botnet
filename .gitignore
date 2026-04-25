@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Build artifacts
+*.exe
+*.dll
+*.o
+temp.c
+temp.rc
+temp.manifest
+
+# Compiler and large binaries
+compiler/
+compiler.zip
+
+# IDEs
+.vscode/
+.idea/
