@@ -30,8 +30,8 @@ Basic-C-Bot-net is an advanced All-In-One tool designed for educational purposes
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/basic-c-botnet.git
-   cd basic-c-botnet
+   git clone https://github.com/thanawutjaroenpon/botnet.git
+   cd botnet
    ```
 
 2. Install dependencies:
